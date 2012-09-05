@@ -1,0 +1,8 @@
+###过滤的文件夹
+/file
+/view
+
+###过滤的文件
+.VimballRecord
+.DS_Store
+.netrwhist
