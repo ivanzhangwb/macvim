@@ -1,4 +1,7 @@
 macvim
 ======
 
-this is my vim config repository
+####What's this?
+#Personal Vim config bak
+#Some useful Vim plugin
+
