@@ -46,4 +46,5 @@ map ,c <ESC>:VCSCommit <C-R>=VSCSubmit()<CR><CR>
 """""""""""""""""""""diy command"""""""""""""""""""
 "利用Today这个命令来显示日志，command 类似于 bash里面的alias 别名.
 command Today Calendar
-"""""""""""""""""""""Other"""""""""""""""""""
+"""""""""""""""""""""plugin"""""""""""""""""""
+call pathogen#runtime_append_all_bundles()
